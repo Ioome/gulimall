@@ -14,8 +14,3 @@ buildNumber.properties
 **/mvnw.cmd
 .idea
 
-gulimall-coupon/
-gulimall-member/
-gulimall-order/
-gulimall-product/
-gulimall-ware/
